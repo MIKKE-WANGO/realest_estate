@@ -13,6 +13,7 @@ python-language-server
 python-slugify 
 python3-openid
 pytz
+pillow
 requests
 requests-oauthlib
 whitenoise
