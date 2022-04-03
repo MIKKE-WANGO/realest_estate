@@ -1,7 +1,6 @@
 import React,{ Fragment} from 'react'
 import { Link,useNavigate} from "react-router-dom";
 
-import '../css/navbar.css'
 
 
 
@@ -49,7 +48,7 @@ const Navbar = (props) => {
        
             </ul>
         </div>
-        <h2 className="menu-icon"  >Menu</h2>
+        
     </div>
     
   )
