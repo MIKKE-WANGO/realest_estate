@@ -17,6 +17,8 @@ requests
 requests-oauthlib
 whitenoise
 django-filter
+djangorestframework_simplejwt
 dj-database-url
+djoser
 psycopg2-binary
 jsonschema
