@@ -1,0 +1,52 @@
+
+
+.menu-icon{
+    width: 40px;
+    display: none;
+}
+
+.nav-bar{
+    display: flex;
+    padding: 10px 20px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left:0;
+
+    background: black;
+    z-index: 2;
+   
+}
+
+.nav-bar h2{
+    color: #dbdbdb;
+}
+
+.nav-logo img{
+    width: 150px;
+}
+
+.nav-links{
+    flex: 1;
+    text-align: right;
+}
+
+.nav-links ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 12px 12px;
+}
+
+.nav-links ul a{
+    color: #dbdbdb;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.nav-links ul a:hover{
+    color:goldenrod
+}
+
+.nav-links ul a::selection{
+    color: goldenrod;
+}
