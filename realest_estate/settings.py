@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-!)7x4@!d0b2a30zeyh*26vku4nkn0lk%=#*4_0@^10@b8=ncxb
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['realest-estate-wango.herokuapp.com' ]
+ALLOWED_HOSTS = ['realest-estate-wango.herokuapp.com', '127.0.0.1', 'http://127.0.0.1:8000/' ]
 
 
 # Application definition

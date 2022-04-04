@@ -15,6 +15,7 @@ import ListingDetail from "./pages/ListingDetail";
 import Register from "./pages/Register";
 import Contact from "./pages/Contact";
 import Login from "./pages/Login";
+import './App.css';
 
 function App() {
 
